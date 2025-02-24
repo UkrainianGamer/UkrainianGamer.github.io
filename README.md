@@ -1,2 +1,1 @@
-# UkrainianGamer.github.io
-A site for school (Blooket hacks, games, Website unblockers, ETC) (CURRENTLY UNDER WORK)
+git clone https://github.com/UkrainianGamer/SchoolStuff.git
